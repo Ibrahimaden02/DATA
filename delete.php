@@ -11,7 +11,7 @@ $product_code = $_GET['product_code'];
  
 $servername = "localhost";
 $username = "root";
-$password = "12Berke-";
+$password = "Rooto-12345";
 $dbname = "winkel";
  
 try {
